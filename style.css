@@ -53,3 +53,8 @@ body {
 #smile:hover {
     background-color: aqua;
 }
+
+#textt {
+    height: 100px;
+    width: 100px;
+}
