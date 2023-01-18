@@ -43,3 +43,13 @@ body {
     background-color: aliceblue;
     height: 100px;
 }
+
+#smile {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+}
+
+#smile:hover {
+    background-color: aqua;
+}
