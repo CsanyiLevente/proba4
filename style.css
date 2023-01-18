@@ -1,0 +1,40 @@
+h1 {
+    margin: 0px;
+}
+
+#felso {
+    background-color: red;
+    height: 33.3px;
+    width: 200px;
+}
+
+#kozepso {
+    background-color: rgb(255, 255, 255);
+    height: 33.3px;
+    width: 200px;
+}
+
+#also {
+    background-color: rgb(0, 141, 12);
+    height: 33.3px;
+    width: 200px;
+}
+
+#felsorolas {
+    background-color: blue;
+}
+
+#tbl {
+    background-color: aqua;
+}
+
+body {
+    background-color: gold;
+}
+
+#doboz {
+    background-color: khaki;
+    height: 100px;
+    width: 200px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
